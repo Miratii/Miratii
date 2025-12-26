@@ -31,11 +31,28 @@ Sou apaixonado pela robustez do ecossistema **.NET**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ### 📊 Minhas Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Miratii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miratii&show_icons=true)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miratii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
+<br />
 
 ### 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-de-brito-76870319b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersuncampos@outlook.com)
