@@ -7,8 +7,22 @@ Sou apaixonado pela robustez do ecossistema **.NET**
 - 🔭 Atualmente estou focado em: **C#, .NET Core, APIs RESTful e SQL Server**.
 - 🌱 Estudando agora: **Arquitetura de Software e Design Patterns**.
 - 🎯 Objetivo: Me tornar um Engenheiro de Software especializado em sistemas de alta complexidade.
+ <a href="https://github.com/Miratii?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Miratii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+ <a href="https://github.com/Miratii?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Miratii?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    </p>
 
----
 ### 🛠️ Tech Stack & Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -17,14 +31,10 @@ Sou apaixonado pela robustez do ecossistema **.NET**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### ⚡ Soft Skills (Minha bagagem)
+### 📊 Minhas Estatísticas
 
-Não sou apenas um iniciante em tecnologia, sou um profissional experiente em:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miratii&show_icons=true)
 
-* **Gestão de Crise:** Acostumado a ambientes de alta pressão e prazos curtos.
-* **Comunicação Assertiva:** Experiência em traduzir problemas técnicos para clientes e gestores.
-* **Regras de Negócio:** Domínio de fluxos financeiros complexos (Sistemas de Amortização, Compliance, Análise de Risco).
----
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-de-brito-76870319b/)
