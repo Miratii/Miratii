@@ -2,11 +2,11 @@
 Estou em transição de carreira para o desenvolvimento de software, trazendo na bagagem uma sólida experiência no setor financeiro. 
 Sou apaixonado pela robustez do ecossistema **.NET**
 
-### 💻 Desenvolvedor C# .NET em formação | Foco em Back-end
+###  Desenvolvedor C# .NET em formação | Foco em Back-end
 
-- 🔭 Atualmente estou focado em: **C#, .NET Core, APIs RESTful e SQL Server**.
-- 🌱 Estudando agora: **Arquitetura de Software e Design Patterns**.
-- 🎯 Objetivo: Me tornar um Engenheiro de Software especializado em sistemas de alta complexidade.
+-  Atualmente estou focado em: **C#, .NET Core, APIs RESTful e SQL Server**.
+-  Estudando agora: **Arquitetura de Software e Design Patterns**.
+-  Objetivo: Me tornar um Engenheiro de Software especializado em sistemas de alta complexidade.
  <a href="https://github.com/Miratii?tab=followers">
         <img 
             alt="Seguidores" 
